@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:49,256 --> 00:00:50,089
 Đằng sau
 
@@ -3246,8 +3246,7 @@ nếu không chúng ta không thể trở lại vườn Địa Đàng.
 
 735
 00:47:32,987 --> 00:47:34,927
-- [Người kể chuyện nữ] "Không ai có 
-tinh hoàn bị dập nát
+"Không ai có tinh hoàn bị dập nát
 
 736
 00:47:34,927 --> 00:47:37,327
@@ -3260,7 +3259,7 @@ mà sẽ được chấp nhận
 
 738
 00:47:43,940 --> 00:47:45,960
-- [Người kể chuyện nam] Đường trở về vườn Địa Đàng,
+Đường trở về vườn Địa Đàng,
 
 739
 00:47:45,960 --> 00:47:48,150
