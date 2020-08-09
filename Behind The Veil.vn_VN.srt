@@ -3584,7 +3584,8 @@ nhiều người đã vào qua đó.
 
 811
 00:51:59,477 --> 00:52:02,377
-"Vì đường hẹp lúc nào cũng là cánh cổng
+"Vì đường hẹp lúc nào 
+cũng là cánh  cổng
 
 812
 00:52:02,377 --> 00:52:06,161
